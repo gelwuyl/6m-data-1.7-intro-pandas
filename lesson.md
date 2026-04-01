@@ -183,5 +183,5 @@ inventory['tier'] = inventory.apply(value_tier, axis=1)
 3. **`.apply()` is powerful but slow** — use built-in vectorised operations where possible.
 
 ### Next Steps
-- **Post-Class:** Complete the [post-class.md](./post-class.md) Pandas exercises — 5 challenges covering selection, aggregation, and manipulation (45–60 min).
+- **Post-Class:** Complete the [assignment.md](./assignment.md) Pandas exercises — 5 challenges covering selection, aggregation, and manipulation (45–60 min).
 - **Next Lesson:** Lesson 1.8 applies everything learned so far to real-world Exploratory Data Analysis (EDA).
