@@ -31,7 +31,7 @@ By the end of this lesson, you will be able to:
 |----------|-------------|-----------|
 | [Pre-Class](./pre-class.md) | Series vs. DataFrame; Pandas vs. lists; environment setup | 30–45 min |
 | [Lesson Plan](./lesson.md) | Instructor guide for the 3-hour coding session | 3 hours |
-| [Post-Class](./assignment.md) | Pandas practice — selection, aggregation, and manipulation | 45–60 min |
+| [Assignment](./assignment.md) | Pandas practice — selection, aggregation, and manipulation | 45–60 min |
 | [Reference](./reference.md) | Pandas cheat sheet, indexing reference, common operations | As needed |
 
 ---
